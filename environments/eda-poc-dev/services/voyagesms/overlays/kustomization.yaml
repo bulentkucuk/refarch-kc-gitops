@@ -1,5 +1,0 @@
-bases:
-  - ../base
-
-patchesStrategicMerge:
-  - ./service-account-patch.yaml
